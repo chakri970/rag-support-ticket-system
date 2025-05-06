@@ -1,0 +1,68 @@
+Query: chrome login issues due to extensions
+Response: Hi there,
+
+Thanks for reaching out about your Chrome login issues. It sounds like the problem might be related to one of your Chrome extensions.  We've seen this issue before, where a specific extension can interfere with the login process.
+
+Here's what you can try:
+
+1. **Disable your Chrome extensions:** The quickest way to check if this is the cause is to temporarily disable all your extensions. You can do this by typing `chrome://extensions` into your address bar, then toggling the extensions off.  Try logging in again. If successful, re-enable your extensions one by one to identify the culprit.
+
+2. **Clear your browsing data:** Sometimes accumulated cookies and site data can also cause login issues.  Try clearing your browsing data in Chrome.  Focus on clearing "Cookies and other site data" and "Cached images and files". You can access this by typing `chrome://settings/clearBrowserData` into your address bar.
+
+While your issue mentions Chrome,  I also want to mention that login problems can sometimes stem from browser settings related to cross-site tracking. This is less common in Chrome, but if the above steps don't work,  it might be worth double-checking your Chrome settings to ensure cross-site tracking isn't completely blocked for the site you're trying to log into.  You can usually find these settings under Privacy and Security in Chrome's settings.
+
+If you're still experiencing issues after trying these steps, please let us know.  It would be helpful if you could tell us:
+
+* **The specific website you're trying to log into.**
+* **Any error messages you are seeing.**
+* **A list of the extensions you have enabled (if you were able to isolate the issue to a specific extension, please tell us which one).**
+
+This information will help us troubleshoot your issue more effectively.
+Feedback: y
+----------------------------------------
+Query: laptop is getting heat up
+Response: Hi there,
+
+Thanks for reaching out about your laptop overheating.  Overheating can be caused by a number of things, so let's try a few troubleshooting steps:
+
+1. **Check your fans:**  Make sure the air vents on your laptop aren't blocked. Dust buildup can prevent proper cooling.  Try using compressed air to clean the vents.
+
+2. **Resource intensive applications:** Are you running any demanding programs like video editing software, games, or multiple browser tabs with complex content? Closing unnecessary applications can reduce the load on your system.
+
+3. **Background processes:**  Check your Task Manager (Windows) or Activity Monitor (Mac) to see if any background processes are consuming excessive resources.
+
+4. **Charging habits:**  Sometimes, laptops can overheat while charging. Try using the laptop unplugged for a while to see if the temperature goes down.
+
+5. **External environment:** Is your laptop in a hot environment or on a soft surface like a bed or blanket which could be blocking the vents? Try moving it to a cool, hard surface.
+
+
+If the issue persists after trying these steps, please provide us with the following information so we can assist you further:
+
+* **Laptop model:**
+* **Operating System:**
+* **How long has this been happening?**
+* **Any recent changes to your software or hardware?**
+
+**(Please note: The previous tickets you mentioned regarding login issues are unrelated to overheating and won't affect this problem.)**
+
+
+We look forward to hearing from you and helping resolve this issue.
+Feedback: y
+----------------------------------------
+Query: mobile getting hanged
+Response: Thanks for reaching out about your mobile device hanging.  To help me understand the issue better, could you please provide a little more information?
+
+* **What type of mobile device are you using?** (e.g., iPhone 13, Samsung Galaxy S22)
+* **What operating system version is it running?** (e.g., iOS 16, Android 13)
+* **When does the hanging occur?** (e.g., When using a specific app, after a certain amount of time, randomly)
+* **What happens exactly when it hangs?** (e.g., Screen freezes, device becomes unresponsive, apps crash)
+
+While the previous issues logged relate to login problems on specific browsers on computers, those solutions won't directly address a mobile device hanging.  Once you provide more details, I can offer more specific troubleshooting steps.  In the meantime, here are a few general things you can try:
+
+* **Restart your device:** This can often resolve temporary software glitches.
+* **Check for app updates:** Outdated apps can sometimes cause performance issues.
+* **Close unused apps:**  Having too many apps running in the background can consume resources and lead to hanging.
+* **Check your storage space:** Low storage can also impact performance.  Try freeing up some space if your device is nearly full.
+* **Ensure your operating system is up-to-date:** Updates often include performance improvements and bug fixes.
+Feedback: y
+----------------------------------------

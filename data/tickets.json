@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Login failure on Safari for SSO users",
+        "browser": "Safari 16.3",
+        "os": "macOS Ventura",
+        "customer_type": "Enterprise",
+        "issue": "Redirect loop during SSO login",
+        "resolution": "Clear cookies, update Safari settings to allow cross-site tracking."
+    },
+    {
+        "id": 2,
+        "title": "Generic login issues",
+        "browser": "All",
+        "customer_type": "Mixed",
+        "issue": "Password reset email not received",
+        "resolution": "Whitelist support domain in email settings."
+    },
+    {
+        "id": 3,
+        "title": "Login error specific to Chrome extensions",
+        "browser": "Chrome",
+        "customer_type": "SMB",
+        "issue": "Conflict with password manager extension",
+        "resolution": "Disable conflicting extension."
+    }
+]
